@@ -1,0 +1,17 @@
+{
+  "name": "my-http-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlonaM8/my-HTTP-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IlonaM8/my-HTTP-server/issues"
+  },
+  "homepage": "https://github.com/IlonaM8/my-HTTP-server#readme"
+}
